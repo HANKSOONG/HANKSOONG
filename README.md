@@ -4,7 +4,7 @@ I'm a Master's student in AI, with a focus on **data science**, **deep learning*
 
 I enjoy building pipelines that *actually work* — whether that's benchmarking DINOv2 on CIFAR, restoring blurry images, or fusing human traits across video, text, and audio.
 
-I am currently doing a one-year internship in deep learning algorithms at Thermo Fisher Scientific.(2025-09 to 2026-06)
+I am currently doing a one-year internship in deep learning algorithms at Thermo Fisher Scientific.(2025-09 to 2026-08)
 
 ---
 
