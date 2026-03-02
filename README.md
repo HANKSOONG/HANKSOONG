@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hank Song
+#  Hi, I’m Hank Song
 
 I'm a Master's student in AI, with a focus on **data science**, **deep learning**, **computer vision**, and **language models**. 
 
