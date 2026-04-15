@@ -20,7 +20,8 @@ I am currently doing a one-year internship in deep learning algorithms at Thermo
 ##  Interests
 
 - Deep Learning & Model Fusion  
-- Vision Transformers & Visual Reasoning  
+- Vision Transformers & Visual Reasoning
+- Large Language Model
 - Human-Centered AI (Multimodal signals)  
 - Tools that Make Models Usable
 
