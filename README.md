@@ -14,7 +14,7 @@ I am currently doing a one-year internship in deep learning algorithms at Thermo
 -  [MiniVision](https://github.com/HANKSOONG/MiniVision-Lightweight-and-Transformer-Models-for-CIFAR): Benchmarks ResNet, EfficientNet, DINOv2 on CIFAR-10&100. ViT reached 98.7% & 91.5% accuracy.
 -  [Image Restoration](https://github.com/HANKSOONG/Image-Restoration): DnCNN vs. NAFNet on GOPRO/RealBlur with metric + perceptual analysis
 -  [Image Stitching](https://github.com/HANKSOONG/Image-Stitching): Harris + SIFT + RANSAC full classical CV pipeline
-
+-  [MiniGPT-TinyStories](https://github.com/HANKSOONG/MiniGPT-TinyStories): A small GPT-style language model trained from scratch on the TinyStories dataset (continuously updated)
 ---
 
 ##  Interests
